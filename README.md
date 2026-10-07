@@ -3,7 +3,7 @@
 Official downloads for **Velis Client**, a fast, clean Minecraft launcher.
 
 ## Download
-Go to the [Releases](../../releases/latest) page and download `VelisClient-WebSetup.exe` (Windows 10/11).
+Go to the [Releases](https://github.com/epicboyz99/velis-client-releases/releases/latest) page and download `VelisClient-WebSetup.exe` (Windows 10/11).
 
 ## Notes
 - Free to use.
